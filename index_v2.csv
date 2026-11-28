@@ -626,7 +626,6 @@ com.komoridev.angrybirds,愤怒的小鸟,quick_app,KomoriDev,kovela-angrybirds,0
 com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,f418f41,media/logo.png,media/cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmb10p;xmb11;xmb11nfc;xmws441;xmrw6;xmb10;xmws4xring,
 979864051998,浮时 · Time Afloat,watchface,mechanic42d-alt,astrobox-resource-979864051998,b1a633a,media/浮时-正方形图标.png,media/00-浮时-分钟刻度头图.jpg,液体表盘;重力感应;液位读时;熄屏显示,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.jpf.wrist.schoolbusjam,放学校车站,quick_app,jip79078-hash,school-bus-jam-astrobox,270cba3,media/icon.png,media/cover.jpg,游戏;休闲;益智;解谜,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
-979821740601,流光 · FLUX,watchface,infatuation326,astrobox-resource-979821740601,5dd40c8,media/logo_flux_512.png,media/cover_flux_3d_1200x800.webp,极简;动态表盘;流光;多配色;液态渐变;大数字,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 979876108505,手势控制,watchface,Eternalovenn,astrobox-resource-979876108505,7d23c2f,media/1000095990.png,media/1000096002.jpg,模块;优化;10pro;控制,xiaomi,xmb10p,force_paid
 com.komoridev.watermelon,合成大西瓜,quick_app,KomoriDev,kovela-watermelon,986955b,media/logo.png,media/cover.png,趣味;游戏;休闲,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw6;xmrw5;xmrw5xring;xmws5;xmws541;xmws4;xmws441;xmws4xring;xmws3,paid
 nespro,nespro,canopus,oraserz,astrobox-resource-nespro,5fc2118,media/icon-512.png,media/Page 1 (1).jpg,nes;模拟器;模块;游戏,xiaomi,xmb10p,
@@ -654,3 +653,4 @@ com.yg.game2048,2048,quick_app,sinmyz,2048,980c3f5,media/3974.png,media/3978.png
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,48dec14,media/16108.png,media/29254.jpg,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 979840380251,序列_Kipfel,watchface,ChiHuan0807,979840380251_AstroBox_Release,f9f2802,序列LOGO.png,media/画板 1.png,池焕;迟缓;Kipfel;可爱;简约;多模块;轻动态,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
 979820440803,可爱奶娃,watchface,mechanic42d-alt,astrobox-resource-979820440803,f2ac8e8,media/可爱奶娃-圆头无边图标.png,media/可爱奶娃-头图.jpg,互动表盘;可爱奶娃;熄屏显示;<__NSFW__>,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+979821740601,流光 · FLUX,watchface,infatuation326,astrobox-resource-979821740601,e4c24cb,media/logo_flux_512.png,media/cover_flux_3d_1200x800.png,极简;动态表盘;流光;多配色;液态渐变;大数字,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
