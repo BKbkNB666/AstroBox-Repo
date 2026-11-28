@@ -562,7 +562,6 @@ com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-l
 com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,6d37eb2,logo.png,media/OSL (1).png,游戏;养成;战斗;原神;付费,xiaomi,xmrw5xring;xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw6;xmb10p;xmb11nfc;xmb11,force_paid
 top.jursin.hyperschedule,HyperSchedule,quick_app,Jursin,astrobox-resource-top-jursin-hyperschedule,1fbeee9,media/logo.png,media/cover.png,课程表;课表;大学,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw6,
 979847249824,3D后室,watchface,liuhua5201314,astrobox-resource-979847249824,cc9d5f8,media/65250.png,media/65516.jpg,3D;后室;游戏,xiaomi,xmb9;xmb9p,
-app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,aae4095,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.ncb.memorysequence,记忆序列,quick_app,2167351437,astrobox-resource-com-ncb-memorysequence,83a14eb,media/1000183123.png,media/1000183638.jpg,记忆序列;小游戏;XiaoBin;记忆训练;益智;休闲,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,c4616da,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring;xmws541,
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,625b7c8,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
@@ -653,3 +652,4 @@ io.github.o_o1112.tantanbubble,弹弹泡泡,quick_app,O-O1112,astrobox-resource-
 979807531249,航行窗边 WINDOW SEAT,watchface,DevonStee,astrobox-resource-979807531249,005414a,media/01-图标-1比1.png,media/02-封面-3比2-v3.png,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;飞机;舷窗;云海;黄昏;夜景;极光;实拍夜景;点阵数字;遮阳板动画;点窗换景;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p;xmrw6,force_paid
 com.Dreamqiu.zombie,僵尸狂叫,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-zombie,259c8e4,media/logo.png,media/僵尸狂叫 (2).png,游戏;跑酷;僵尸狂叫;僵尸,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.yg.game2048,2048,quick_app,sinmyz,2048,980c3f5,media/3974.png,media/3978.png,快应用;免费;小游戏,xiaomi,xmws3;xmb9;xmrw5;xmb10;xmrw6;xmws4,
+app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,48dec14,media/16108.png,media/29254.jpg,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
