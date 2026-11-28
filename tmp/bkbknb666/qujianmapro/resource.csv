@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-xyz.bksystem.qjm,取件码Pro,quick_app,BKbkNB666,QUJIANMAPro,12e7caf,media/屏幕截图 2026-11-22 092747.png,media/屏幕截图 2026-11-21 205534.png,快递;取件码;物流;取件,xiaomi,xmrw5xring,paid
+xyz.bksystem.qjm,取件码Pro,quick_app,BKbkNB666,QUJIANMAPro,1f6ae92,media/icon.png,media/c2f7f67a-893f-4f23-b473-7ab4fae446a9.png,快递;取件码;物流;取件,xiaomi,xmrw5xring,force_paid
